@@ -102,6 +102,7 @@ function check(correctanswer,enteredanswer)
 
    check(checkone,useranswer);
    console.log("\n");
+   console.log("--------------------");
  }
  console.log("\n");
  console.log("Your Final Score is "+ score);
